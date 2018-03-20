@@ -1,1 +1,6 @@
-rrrrr
+<<<<<<< HEAD
+rrrrrr
+
+=======
+rrrrrrr
+>>>>>>> br1
